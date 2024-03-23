@@ -1,4 +1,8 @@
 module.exports = {
+  devServer: {
+    compress: true,
+    allowedHosts: 'all',
+  },
   css: {
     loaderOptions: {
       sass: {

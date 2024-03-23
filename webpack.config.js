@@ -1,0 +1,6 @@
+module: {
+
+  devServer: {
+    allowedHosts: "all"
+  }
+}

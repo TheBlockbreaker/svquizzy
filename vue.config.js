@@ -1,7 +1,7 @@
 module.exports = {
     //...
   devServer: {
-    allowedHosts: 'all',
+    allowedHosts: ['.onrender.com'],
   },
   css: {
     loaderOptions: {

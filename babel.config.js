@@ -1,6 +1,3 @@
 module.exports = {
-  presets: ['@vue/cli-plugin-babel/preset'],
-  devServer: {
-    allowedHosts: "all"
-  }
+  presets: ['@vue/cli-plugin-babel/preset']
 }
